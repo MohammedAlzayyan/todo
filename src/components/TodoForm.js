@@ -1,4 +1,4 @@
-import React, { forwardRef } from 'react'
+import React from 'react'
 import { Input } from './Input'
 
 const TodoForm = (props) => {
